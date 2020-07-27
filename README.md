@@ -13,7 +13,7 @@ Topics: Influence Maximization, Social Networks; Bradley-Terry Models, Recourse;
 
 1. Maximizing Conrasting Opinions in Signed Social Networks: [paper](https://www.ntu.edu.sg/home/arijit.khan/Papers/cosine.pdf), [code and presentation](https://github.com/kaivalyar/COSiNeMax)
 2. Recourse for the Real World: Learning Feature Modification Costs from Pairwise Comparisons: [paper](https://github.com/kaivalyar/DSG/blob/master/papers.zip), [code](https://github.com/kaivalyar/RealWorldRecourse)
-3. Paper Under Review: [paper](https://github.com/kaivalyar/DSG/blob/master/papers.zip), [code]()
+3. Paper Under Review: [paper](https://github.com/kaivalyar/DSG/blob/master/papers.zip), code (currently unavailable)
 
 ## Miscellaneous Experience
 Open source and Community: talks and teaching
