@@ -10,6 +10,7 @@ Technologies: Python, Git, Javascript, Bash, Cython
 
 ## Research Experience
 Topics: Influence Maximization, Social Networks; Bradley-Terry Models, Recourse; Counterfactuals, Machine Learning
+(**password included in application**)
 
 1. Maximizing Conrasting Opinions in Signed Social Networks: [paper](https://www.ntu.edu.sg/home/arijit.khan/Papers/cosine.pdf), [code and presentation](https://github.com/kaivalyar/COSiNeMax)
 2. Recourse for the Real World: Learning Feature Modification Costs from Pairwise Comparisons: [paper](https://github.com/kaivalyar/DSG/blob/master/papers.zip), [code](https://github.com/kaivalyar/RealWorldRecourse)
