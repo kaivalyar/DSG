@@ -15,9 +15,9 @@ Data Science Libraries: NumPy, pandas, scikit-learn, Keras, TensorFlow, Cython
 Topics: Influence Maximization, Social Networks; Bradley-Terry Models, Recourse; Counterfactuals, Machine Learning
 
 1. Maximizing Conrasting Opinions in Signed Social Networks: [paper](https://www.ntu.edu.sg/home/arijit.khan/Papers/cosine.pdf), [code and presentation](https://github.com/kaivalyar/COSiNeMax)
-2. Recourse for the Real World: Learning Feature Modification Costs from Pairwise Comparisons: [paper](), [code](https://github.com/kaivalyar/RealWorldRecourse)
+2. Recourse for the Real World: Learning Feature Modification Costs from Pairwise Comparisons: [paper](https://github.com/kaivalyar/DSG/blob/master/Docs/Recourse_for_Humans___ParticipatoryML_workshop__ICML_2020.pdf), [code](https://github.com/kaivalyar/RealWorldRecourse)
 3. Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses: [paper](https://proceedings.neurips.cc/paper/2020/hash/8ee7730e97c67473a424ccfeff49ab20-Abstract.html), code (unavailable due to NDA)
-4. Can I Still Trust You? Understanding the Impact of Distribution Shifts on Algorithmic Recourses: [paper](https://arxiv.org/abs/2012.11788) [code]()
+4. Can I Still Trust You? Understanding the Impact of Distribution Shifts on Algorithmic Recourses: [paper](https://arxiv.org/abs/2012.11788) [code](https://github.com/kaivalyar/DSG/tree/master/CanIStillTrustYou)
 
 ## Miscellaneous Experience
 Open source and Community: talks and teaching
